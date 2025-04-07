@@ -1,0 +1,1 @@
+This file createed so that the /images/menu/ folder can be creawted.
